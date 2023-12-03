@@ -1,0 +1,16 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.consaltation-btn{
+    background-color: #B68C5A;
+}
+
+.consaltation-btn:hover{
+    background-color: chocolate;
+    transition: 1s ease-in-out all;
+}
+
+.leagal-title{
+    font-size: 72px;
+    font-weight: 600;
+}
